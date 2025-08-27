@@ -1,5 +1,12 @@
 {
   "name": "com.tttghost.testupm",
   "version": "1.0.0",
-  "displayName": "first testupm"
+  "displayName": "First Test UPM",
+  "description": "이 패키지는 Unity Package Manager(UPM) 구조를 테스트하기 위한 첫 번째 샘플 패키지입니다.",
+  "unity": "2021.3", 
+  "author": {
+    "name": "tttghost",
+    "email": "tttghost@email.com",
+    "url": "https://github.com/tttghost"
+  }
 }
