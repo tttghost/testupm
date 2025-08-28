@@ -10,6 +10,6 @@
     "url": "https://github.com/tttghost"
   },
    "dependencies": {
-    "com.atteneder.gltfast": "6.1.0"
+    "com.atteneder.gltfast": "6.13.0"
   }
 }
