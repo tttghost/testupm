@@ -8,5 +8,8 @@
     "name": "tttghost",
     "email": "tttghost@email.com",
     "url": "https://github.com/tttghost"
+  },
+   "dependencies": {
+    "com.atteneder.gltfast": "6.1.0"
   }
 }
